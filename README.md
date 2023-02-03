@@ -26,6 +26,6 @@ Confidentiality is roughly equivalent to privacy. Confidentiality measures are d
 Integrity involves maintaining the consistency, accuracy and trustworthiness of data over its entire lifecycle. Data must not be changed in transit, and steps must be taken to ensure data cannot be altered by unauthorized people (for example, in a breach of confidentiality).
 ## Availability
 Availability means information should be consistently and readily accessible for authorized parties. This involves properly maintaining hardware and technical infrastructure and systems that hold and display the information
-#password attack
+# password attack
 it’s a type of cyber attack where hackers attempt to access a file, folder, account, or computer secured with a password.
 It’s generally done with the help of software that expedites cracking or guessing passwords. That’s why following a secure practice when creating passwords is vital, like avoiding using your pet’s name, nicknames, apartment address, etc. These go-to passwords are too obvious, easy to guess, and successfully breach—, especially by those who know you personally.
