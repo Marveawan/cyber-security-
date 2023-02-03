@@ -3,7 +3,7 @@ Cyber security definition
 Cyber security is the application of technologies, processes, and controls to protect systems, networks, programs, devices and data from cyber attacks.Malware
 # Malware-
 Malware means malicious software. One of the most common cyber threats, malware is software that a cybercriminal or hacker has created to disrupt or damage a legitimate user’s computer. Often spread via an unsolicited email attachment or legitimate-looking download, malware may be used by cybercriminals to make money or in politically motivated cyber-attacks.
-# Virus-:
+# Virus-
 A self-replicating program that attaches itself to clean file and spreads throughout a computer system, infecting files with malicious code.
 # Spyware: 
 A program that secretly records what a user does, so that cybercriminals can make use of this information. For example, spyware could capture credit card details.
